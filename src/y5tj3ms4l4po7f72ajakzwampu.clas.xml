@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>Y5TJ3MS4L4PO7F72AJAKZWAMPU</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Proxy Class (generated)</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <RSTAT>S</RSTAT>
+   </VSEOCLASS>
+   <DESCRIPTIONS_CLASS>
+    <SEOCLASSTX>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Proxy Class (generated)</DESCRIPT>
+    </SEOCLASSTX>
+   </DESCRIPTIONS_CLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>CLASS_CONSTRUCTOR</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>CLASS_CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CP</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>SAP-Zeichensatzidentifikation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>EXC</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Abstrakte Oberklasse aller globalen Exceptions</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GUID</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>16 byte UUID in 32 chars (hexadecimal encoded)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>INS</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Characterfeld der Länge 10</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>L</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Characterfeld der Länge 10</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MSG</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Messagevariable-01</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>Q</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Characterfeld der Länge 10</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>O0</CMPNAME>
+     <SCONAME>CX_STATIC_CHECK</SCONAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>QPPD Ausnahmeklasse</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>P0</CMPNAME>
+     <SCONAME>CX_STATIC_CHECK</SCONAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Ausnahmen mit statischer und dynamischer Prüfung von RAISING</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

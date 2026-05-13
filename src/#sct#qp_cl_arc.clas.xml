@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>/SCT/QP_CL_ARC</CLSNAME>
+    <LANGU>D</LANGU>
+    <DESCRIPT>Archiv: Archivierung</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <RSTAT>K</RSTAT>
+    <WITH_UNIT_TESTS>X</WITH_UNIT_TESTS>
+   </VSEOCLASS>
+   <DESCRIPTIONS_CLASS>
+    <SEOCLASSTX>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Archiv: Archivierung</DESCRIPT>
+    </SEOCLASSTX>
+   </DESCRIPTIONS_CLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>DO_ADD_EXCEPTION_RETURN</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Raise Konditionen in die ARC Nachrichtentabelle einfuegen</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>DO_ADD_RETURN</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Nachrichten in die ARC Nachrichtentabelle einfuegen</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>IS_USED</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Verwendungsnachweis für eine Spezifikation mit seinen Unterk</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SET_FIELDCAT</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Setzt den Feldkatalog für die Asugabe in abhängigkeit der Ar</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SET_ICON</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Setzt das Ausgabe Icon in Abhängigkeit vom des Nachrichtenty</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SET_RETURN</CMPNAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>Eine Nachricht erzeugen und in die Nachrichtentabelle einfue</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>IS_USED</CMPNAME>
+     <SCONAME>/SCT/QP_CX_ERROR</SCONAME>
+     <LANGU>D</LANGU>
+     <DESCRIPT>QPPD Ausnahmeklasse</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
